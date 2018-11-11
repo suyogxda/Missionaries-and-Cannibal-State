@@ -31,9 +31,9 @@ class tree:
     #Function to check if problem achieved final solution or not
     def is_final(self):
         if self.m is 0 and self.c is 0:
-            return True
+            return 1
         else:
-            return False
+            return 0
 
     #Function to check if the state is valid or not. For eg: if no of Missionaries is less than no of Cannibals, the state is invalid
     def decide(self, m, c):
