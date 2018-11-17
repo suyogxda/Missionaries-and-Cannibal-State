@@ -1,3 +1,7 @@
+# AI Assignment 1: Missionaries and Cannibal State
+#By:
+#   Suyog Adhikari
+#   Sambad Bidari
 check = []
 nos = ((0, 1), (0, 2), (1, 0), (2, 0), (1, 1))
 
